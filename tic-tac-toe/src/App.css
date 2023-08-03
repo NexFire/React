@@ -5,10 +5,26 @@
   width: 100vw;
   height: 100vh;
 }
-.square{
-  background-color:"rgb(50,50,50)";
+.squarer{
+  background-color:#0656f5;
+  border: 1px;
+  border-style: solid;
+  border-color: white;
+  margin: auto;
+  padding:auto;
+  display:flex;
+  align-items: center;
+  align-content: center;
+}
+.icon{
+  margin:auto;
+  background-color:red;
+  color: violet;
 }
 .grid-container{
-  display: grid;
+  display: flex;
   color:white;
+  margin: auto;
+  background-color: aqua;
+  justify-content: space-between;
 }

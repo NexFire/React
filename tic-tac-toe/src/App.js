@@ -47,7 +47,7 @@ function App() {
       { value: 3, label: "Medium (AI)" },
       { value: 4, label: "Hard (AI)" },
       { value: 5, label: "Ultra Hard (AI)" },
-      { value: 6, label: "Shit Your Pants (AI)" },
+      { value: 6, label: "Shit Your Pants (AI) Lol" },
     ];
     return(
       <div>
